@@ -1,0 +1,3 @@
+[submodule "ient_nb"]
+	path = ient_nb
+	url = ../ient.nb
