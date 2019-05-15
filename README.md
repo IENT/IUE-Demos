@@ -12,5 +12,5 @@ Visit the notebook [index.ipynb](index.ipynb) for a table of contents.
 
 * Run the interactive notebooks directly with binder:
 
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2FIENT%2Fiue-demos/2915485e73f8737f7811593191656fcf6bc8d9ef?filepath=index.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2FIENT%2Fiue-demos/3c92896653cae40b612c7f217cca130525a75b1c?filepath=index.ipynb)
 * Clone (or download as Zip) this repository with git and open the notebooks locally on your PC with Jupyter ([Anaconda](https://www.anaconda.com/) is highly recommended for this).
