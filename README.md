@@ -10,5 +10,5 @@ This repository contains demos for selected topics the lecture "Informationsübe
 
 * Run the interactive notebooks directly with binder:
 
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2FIENT%2Fiue-demos/3605303f7dbcebc886af9723b65d40f8b535bd7a?filepath=index.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2FIENT%2Fiue-demos/fcd4b84540387e1ac4a25160afc52300e1a28851?filepath=index.ipynb)
 * Clone this repository with git and open the notebooks locally on your PC with Jupyter ([Anaconda](https://www.anaconda.com/) is highly recommended for this).
